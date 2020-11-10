@@ -61,7 +61,7 @@ li a:active {
 }
 
 footer {
-  width: 70rem;
+  width: 85rem;
   margin: 0px auto;
   color: white;
   justify-content: space-between;
@@ -71,7 +71,7 @@ footer {
 
 footer ul {
   list-style: none;
-  padding-left: 2rem;
+  padding-left:2rem;
     display:inline;
 }
 footer li {
